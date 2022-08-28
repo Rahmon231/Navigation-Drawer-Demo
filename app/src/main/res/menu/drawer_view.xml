@@ -2,15 +2,15 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:checkableBehavior="single">
         <item android:id="@+id/nav_first_frag"
-            android:icon="@drawable/app1"
+            android:icon="@drawable/robot"
             android:title="Master Coding App"
             />
         <item android:id="@+id/nav_second_frag"
-            android:icon="@drawable/app2"
+            android:icon="@drawable/k"
             android:title="Kotlin Coding App"
             />
         <item android:id="@+id/nav_third_frag"
-            android:icon="@drawable/app3"
+            android:icon="@drawable/f"
             android:title="Master Coding App"
             />
     </group>
